@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "freeport-watch-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tceq.json
+          git add tceq.json index.html .nojekyll
           git commit -m "TCEQ feed $(date -u +%Y-%m-%dT%H:%MZ)" || echo "no changes"
           for i in 1 2 3; do
             git pull --rebase -X theirs origin main && git push && break
