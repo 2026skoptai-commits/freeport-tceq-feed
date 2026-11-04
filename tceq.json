@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-04T16:22:28.517Z",
+ "fetched_at": "2026-11-04T22:39:19.455Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-04T16:22:28.517Z",
+ "last_ok_at": "2026-11-04T22:39:19.455Z",
  "incidents": [
   {
    "id": "467817",
@@ -43,9 +43,9 @@
    "rn": "RN106481500",
    "name": "FREEPORT LNG PRETREATMENT FACILITY",
    "began": "10/26/2026 08:30 PM",
-   "ended": "10/27/2026 12:00 PM",
+   "ended": "10/28/2026 09:00 PM",
    "eventType": "EMISSIONS EVENT",
-   "reportType": "INITIAL",
+   "reportType": "FINAL",
    "reportDate": "10/27/2026"
   },
   {
@@ -157,14 +157,14 @@
   },
   "467647": {
    "status": "OPEN",
-   "reportType": "INITIAL",
-   "unit": "FREEPORT LNG TREATMENT FACILITY",
+   "reportType": "FINAL",
+   "unit": "FREEPORT LNG PRETREATMENT FACILITY",
    "facility": "PTF TRAINS 1, 2, & 3 / TRAINS_123",
-   "duration": "15 hours, 30 minutes",
+   "duration": "48 hours, 30 minutes",
    "cause": "During operation of Freeport LNG's Pretreatment Facility, Trains 1, 2, and 3 underwent a restart after a trip caused by an incoming power feed interruption. The restart resulted in unavoidable venting to the Pretreatment Flare (EPN: PTFFLARE)",
    "notified": "10/27/2026 03:08 PM",
-   "listReportType": "INITIAL",
-   "fetchedAt": "2026-11-04T16:22:34.615Z"
+   "listReportType": "FINAL",
+   "fetchedAt": "2026-11-04T22:39:21.055Z"
   },
   "467685": {
    "status": "OPEN",
