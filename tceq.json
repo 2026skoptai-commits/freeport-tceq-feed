@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-05T20:41:31.681Z",
+ "fetched_at": "2026-11-06T01:35:25.242Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-05T20:41:31.681Z",
+ "last_ok_at": "2026-11-06T01:35:25.242Z",
  "incidents": [
   {
    "id": "467817",
@@ -143,7 +143,7 @@
    "cause": "During operation of Freeport LNG's Pretreatment Facility, Trains 1, 2, and 3 underwent a restart after a trip caused by an incoming power feed interruption. The restart resulted in unavoidable venting to the Pretreatment Flare (EPN: PTFFLARE)",
    "notified": "10/27/2026 03:08 PM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-04T22:39:21.055Z"
+   "fetchedAt": "2026-11-06T01:35:27.170Z"
   },
   "467685": {
    "status": "OPEN",
