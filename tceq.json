@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-06T09:27:51.092Z",
+ "fetched_at": "2026-11-06T17:32:01.107Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-06T09:27:51.092Z",
+ "last_ok_at": "2026-11-06T17:32:01.107Z",
  "incidents": [
   {
    "id": "467817",
@@ -33,9 +33,9 @@
    "rn": "RN103196689",
    "name": "FREEPORT LNG LIQUEFACTION PLANT",
    "began": "10/26/2026 07:30 AM",
-   "ended": "10/26/2026 04:30 PM",
+   "ended": "10/27/2026 05:40 AM",
    "eventType": "EMISSIONS EVENT",
-   "reportType": "INITIAL",
+   "reportType": "FINAL",
    "reportDate": "10/28/2026"
   },
   {
@@ -147,14 +147,14 @@
   },
   "467685": {
    "status": "OPEN",
-   "reportType": "INITIAL",
+   "reportType": "FINAL",
    "unit": "Freeport LNG Liquefaction Plant - Trains 1, 2, & 3",
    "facility": "Liquefaction Trains 1, 2, & 3 / TRAINS 123",
-   "duration": "9 hours, 0 minutes",
+   "duration": "22 hours, 10 minutes",
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Trains 1, 2, and 3 tripped due to an incoming power feed interruption. The trips resulted in unplanned and unavoidable venting to the Liquefaction Flare (EPN: LIQFLARE).",
    "notified": "10/26/2026 05:16 PM",
-   "listReportType": "INITIAL",
-   "fetchedAt": "2026-11-05T20:41:36.462Z"
+   "listReportType": "FINAL",
+   "fetchedAt": "2026-11-06T17:32:03.122Z"
   },
   "467708": {
    "status": "OPEN",
