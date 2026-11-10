@@ -3,20 +3,20 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-10T17:54:00.274Z",
+ "fetched_at": "2026-11-10T23:26:59.920Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-10T17:54:00.274Z",
+ "last_ok_at": "2026-11-10T23:26:59.920Z",
  "incidents": [
   {
    "id": "467817",
    "rn": "RN103196689",
    "name": "FREEPORT LNG LIQUEFACTION PLANT",
    "began": "11/01/2026 07:10 AM",
-   "ended": "11/01/2026 11:30 PM",
+   "ended": "11/05/2026 10:40 AM",
    "eventType": "EMISSIONS EVENT",
-   "reportType": "INITIAL",
-   "reportDate": "11/02/2026"
+   "reportType": "FINAL",
+   "reportDate": "11/10/2026"
   },
   {
    "id": "467708",
@@ -169,14 +169,14 @@
   },
   "467817": {
    "status": "OPEN",
-   "reportType": "INITIAL",
+   "reportType": "FINAL",
    "unit": "FREEPORT LNG LIQUEFACTION PLANT",
    "facility": "LIQUEFACTION TRAIN 2 / TRAIN 2",
-   "duration": "16 hours, 20 minutes",
+   "duration": "99 hours, 30 minutes",
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Train 2 was brought down for maintenance work on the 12K-30 compressor system. The maintenance work resulted in venting to the Liquefaction flare (EPN: LIQFLARE).",
    "notified": "11/02/2026 12:37 AM",
-   "listReportType": "INITIAL",
-   "fetchedAt": "2026-11-10T02:11:06.952Z"
+   "listReportType": "FINAL",
+   "fetchedAt": "2026-11-10T23:27:01.259Z"
   }
  },
  "paged": false
