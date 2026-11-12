@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-11T22:43:51.814Z",
+ "fetched_at": "2026-11-12T03:51:01.891Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-11T22:43:51.814Z",
+ "last_ok_at": "2026-11-12T03:51:01.891Z",
  "incidents": [
   {
    "id": "467817",
@@ -155,7 +155,7 @@
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Train 2 was brought down for maintenance work on the 12K-30 compressor system. The maintenance work resulted in venting to the Liquefaction flare (EPN: LIQFLARE).",
    "notified": "11/02/2026 12:37 AM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-10T23:27:01.259Z"
+   "fetchedAt": "2026-11-12T03:51:03.232Z"
   }
  },
  "paged": false
