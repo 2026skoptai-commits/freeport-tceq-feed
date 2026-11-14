@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-14T14:12:16.746Z",
+ "fetched_at": "2026-11-14T19:12:33.096Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-14T14:12:16.746Z",
+ "last_ok_at": "2026-11-14T19:12:33.096Z",
  "incidents": [
   {
    "id": "467817",
@@ -89,7 +89,7 @@
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Train 2 was brought down for maintenance work on the 12K-32 compressor system. This maintenance activity resulted in venting to the Liquefaction flare (EPN: LIQFLARE).",
    "notified": "10/02/2026 11:45 PM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-13T17:47:16.610Z"
+   "fetchedAt": "2026-11-14T19:12:41.017Z"
   },
   "467180": {
    "status": "OPEN",
@@ -100,7 +100,7 @@
    "cause": "During operation of Freeport LNG's Liquefaction Plant, the facility experienced a trip of the Liquefaction Train 3. Train 3 tripped due to an issue with the 13K-31 compressor system. This occurrence resulted in unavoidable venting to the Liquefaction Flare (EPN: LIQFLARE).",
    "notified": "10/20/2026 01:48 PM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-13T17:47:14.752Z"
+   "fetchedAt": "2026-11-14T19:12:39.586Z"
   },
   "467641": {
    "status": "OPEN",
@@ -111,7 +111,7 @@
    "cause": "During operation of Freeport LNG's Pretreatment Facility, Trains 1, 2, and 3 tripped due to an incoming power feed interruption. The trips resulted in unplanned and unavoidable venting to the Pretreatment Flare (EPN: PTFFLARE).",
    "notified": "10/27/2026 12:00 AM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-13T17:47:13.185Z"
+   "fetchedAt": "2026-11-14T19:12:38.107Z"
   },
   "467647": {
    "status": "OPEN",
@@ -133,7 +133,7 @@
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Trains 1, 2, and 3 tripped due to an incoming power feed interruption. The trips resulted in unplanned and unavoidable venting to the Liquefaction Flare (EPN: LIQFLARE).",
    "notified": "10/26/2026 05:16 PM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-13T17:47:11.729Z"
+   "fetchedAt": "2026-11-14T19:12:36.479Z"
   },
   "467708": {
    "status": "OPEN",
@@ -144,7 +144,7 @@
    "cause": "During operation of Freeport LNG's Liquefaction Plant, Trains 1, 2, and 3 underwent a restart after a trip caused by an incoming power feed interruption. The restarts resulted in unplanned and unavoidable venting to the Liquefaction Flare (EPN: LIQFLARE).",
    "notified": "10/28/2026 01:30 PM",
    "listReportType": "FINAL",
-   "fetchedAt": "2026-11-13T17:47:10.226Z"
+   "fetchedAt": "2026-11-14T19:12:35.044Z"
   },
   "467817": {
    "status": "OPEN",
