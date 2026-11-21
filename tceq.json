@@ -3,10 +3,10 @@
  "source": "TCEQ Air Emission Event Reports",
  "cn": "CN601720345",
  "lookback_days": 60,
- "fetched_at": "2026-11-21T18:00:22.293Z",
+ "fetched_at": "2026-11-21T23:22:52.549Z",
  "ok": true,
  "err": "",
- "last_ok_at": "2026-11-21T18:00:22.293Z",
+ "last_ok_at": "2026-11-21T23:22:52.549Z",
  "incidents": [
   {
    "id": "467817",
